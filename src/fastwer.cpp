@@ -1,4 +1,5 @@
 #include "fastwer.hpp"
+#include <cstdint> 
 
 
 void fastwer::tokenize(const string &str, vector<string> &tokens, bool char_level, char delim) {

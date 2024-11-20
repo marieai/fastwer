@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "cstdint": "cpp",
+        "vector": "cpp",
+        "string": "cpp",
+        "sstream": "cpp",
+        "cmath": "cpp",
+        "cassert": "cpp"
+    }
+}
